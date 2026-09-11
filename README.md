@@ -1,0 +1,1 @@
+Curso: https://www.youtube.com/playlist?list=PLx4x_zx8csUhtPMrkiGvFJVE5LX8Qat5s
