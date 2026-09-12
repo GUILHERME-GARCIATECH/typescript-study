@@ -1,3 +1,4 @@
+// Exemplo de compilação de código TypeScript para JavaScript (transpilação)
 class Aluno{
     nome: string;
     idade: number;

@@ -1,3 +1,4 @@
+// Exemplo para configuração de TypeScript
 const teste = "Hello, World!";
 const outroteste = "This is a test.";
 
