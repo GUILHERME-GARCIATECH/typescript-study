@@ -1,4 +1,4 @@
-// Atribuição de tipos em variáveis explicita
+// Atribuição de tipos em variáveis explicita e UNION TYPES
 let vNumero: number; 
 vNumero = 10;
 // vNumero = "10"; --- Não posso fazer isso, pois a variável vNumero é do tipo number.
